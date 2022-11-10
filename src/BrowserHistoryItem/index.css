@@ -1,0 +1,52 @@
+.card-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.three-in-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.image1 {
+  height: 30px;
+  width: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.img-text {
+  display: flex;
+  flex-direction: row;
+}
+.titlee {
+  margin-bottom: 20px;
+}
+.button1 {
+  align-self: center;
+  background-color: transparent;
+  border-width: 0px;
+  margin-top: 90px;
+}
+.time {
+  color: #475569;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.titlee {
+  font-weight: 450;
+  font-family: 'Roboto';
+  margin-top: 10px;
+}
+
+.span {
+  color: #64748b;
+  margin-bottom: 10px;
+}
